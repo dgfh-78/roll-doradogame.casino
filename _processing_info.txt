@@ -1,0 +1,35 @@
+============================================================
+ИНФОРМАЦИЯ ОБ ОБРАБОТКЕ ДОМЕНА
+============================================================
+
+Домен: roll-doradogame.casino
+Дата обработки: 2026-01-21 17:56:33
+Количество замен localhost: 458
+Изменено файлов: 25
+Осталось localhost: 0
+Статус: processed
+
+Измененные файлы:
+  1. 404.html
+  2. index.html
+  3. index.xml
+  4. robots.txt
+  5. sitemap.xml
+  6. about-us\index.html
+  7. about-us\index.xml
+  8. app\index.html
+  9. app\index.xml
+ 10. categories\index.html
+ 11. categories\index.xml
+ 12. contacts\index.html
+ 13. contacts\index.xml
+ 14. cookie-policy\index.html
+ 15. cookie-policy\index.xml
+ 16. privacy-policy\index.html
+ 17. privacy-policy\index.xml
+ 18. responsible-gaming\index.html
+ 19. responsible-gaming\index.xml
+ 20. tags\index.html
+... и еще 5 файлов
+
+============================================================
